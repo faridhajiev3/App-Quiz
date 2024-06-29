@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": 0,
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+            "correct_answer": "Romantic",
+            "incorrect_answers": [
+                "Classic",
+                "Baroque",
+                "Renaissance"
+            ]
+        },
+        {
+            "id": 1,
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?",
+            "correct_answer": "John and Mary",
+            "incorrect_answers": [
+                "Joseph and Catherine",
+                "William and Elizabeth",
+                "George and Anne"
+            ]
+        },
+        {
+            "id": 2,
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+            "correct_answer": "Agent Orange",
+            "incorrect_answers": [
+                "Phosgene",
+                "Mustard Gas",
+                "Hydrogen Cyanide"
+            ]
+        }
+    ]
+}
